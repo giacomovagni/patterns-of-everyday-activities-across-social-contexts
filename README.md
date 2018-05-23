@@ -5,7 +5,7 @@ www.doi.org/10.1073/pnas.1718020115
 
 Information about all the surveys can be found at: https://www.timeuse.org/mtus. 
 
-Only a partial version of the data used in the [paper](www.pnas.org/cgi/doi/10.1073/pnas.1718020115) are available. Researchers can access the data through the Centre for Time Use Research, https://www.timeuse.org/mtus/access. 
+Only a partial version of the data used in the paper are available. Researchers can access the data through the Centre for Time Use Research, https://www.timeuse.org/mtus/access. 
 
 **Table 1. List of data cleared for distribution**
 
@@ -50,7 +50,7 @@ Only a partial version of the data used in the [paper](www.pnas.org/cgi/doi/10.1
 | Bulgaria | BL          | 1965        | 1           |
 | Bulgaria | BL          | 2001        | 0           |
 | Canada| CA          | 2010        | 0           |
-| Czech Republic      | CZ          | 1965        | 
+| Czech Republic      | CZ          | 1965        | 1
 | Denmark | DK          | 2001        | 0           |
 | Finland | FI          | 1979        | 0           |
 | Finland | FI          | 2009        | 0           |
