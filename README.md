@@ -59,7 +59,6 @@ Only a partial version of the data used in the paper are available. Researchers 
 | France  | FR          | 2009-10     | 0           |
 | Germany West    | DE West     | 1965-66     | 1           |
 | Germany East    | DE East     | 1965-66     | 1           |
-| Germany     | DE          | 1991-92     | 0           | 
 | India   | IN          | 1998        | 0           | 
 | Peru    | PE          | 1966        | 1           | 
 | Poland  | PL          | 1965        | 1           | 
